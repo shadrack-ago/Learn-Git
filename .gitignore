@@ -1,0 +1,19 @@
+# Ignore Windows system directories
+AppData/
+Application Data/
+Local Settings/
+Cookies/
+NetHood/
+PrintHood/
+Recent/
+SendTo/
+Start Menu/
+Templates/
+My Documents/
+
+# Ignore VSCode settings
+.vscode/
+
+# Ignore other system files or temporary files
+*.log
+*.tmp
