@@ -27,4 +27,3 @@ let location = "Kenya";
 let message = `My name is ${name}, I am ${age} years old, and I live in ${location}.`;
 
 console.log(message);
-
