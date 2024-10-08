@@ -1,0 +1,67 @@
+[33mcommit a2b776a6ed95134a00228f91ee2891808c41f58a[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/New-features[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mNew-features[m[33m)[m
+Author: Shadrack Otieno <shadrackmeshack7@gmail.com>
+Date:   Mon Oct 7 12:40:20 2024 -0700
+
+    Race Day
+    Codecademy’s annual race is just around the corner! This year, we have a lot of participants. You have been hired to write a program that will register runners for the race and give them instructions on race day.
+    
+    As a timeline, registration would look like this:registration-timeline
+    
+    Here’s how our registration works. There are adult runners (over 18 years of age) and youth runners (under 18 years of age). They can register early or late. Runners are assigned a race number and start time based on their age and registration.
+    
+    Race number:
+    
+    Early adults receive a race number at or above 1000.
+    All others receive a number below 1000.
+    Start time:
+    
+    Adult registrants run at 9:30 am or 11:00 am.
+    Early adults run at 9:30 am.
+    Late adults run at 11:00 am.
+    Youth registrants run at 12:30 pm (regardless of registration).
+    But we didn’t plan for runners that are exactly 18! We’ll handle that by the end of the project.
+    
+    If you get stuck during this project or would like to see an experienced developer work through it, click “Get Unstuck“ to see a project walkthrough video
+
+[33mcommit 3f85313d1788cae6b61e59a039b4e27769143267[m
+Author: Shadrack Otieno <shadrackmeshack7@gmail.com>
+Date:   Sun Oct 6 02:16:10 2024 -0700
+
+    MY JS Open AI guide calculator
+
+[33mcommit 49b67361c69676ab2812379e3aa6fbb4626f25cd[m
+Author: Shadrack Otieno <shadrackmeshack7@gmail.com>
+Date:   Sat Oct 5 11:12:20 2024 -0700
+
+    more training
+
+[33mcommit 0a78a6fec5c185c917430d65b231e0c16215b112[m
+Author: Shadrack Otieno <shadrackmeshack7@gmail.com>
+Date:   Fri Oct 4 06:33:02 2024 -0700
+
+    just diving into JS
+
+[33mcommit c2fc9d8405ac7053da837b9c37f97b728f83952d[m
+Author: Shadrack Otieno <shadrackmeshack7@gmail.com>
+Date:   Fri Oct 4 03:47:38 2024 -0700
+
+    just begining with JS here and learning to work
+    with nodejs
+
+[33mcommit 3c2efe548ad2daab93ba8809e35854e476b1cef7[m
+Author: shadrack-ago <100674408+shadrack-ago@users.noreply.github.com>
+Date:   Fri Oct 4 01:47:04 2024 -0700
+
+    Create README.md
+
+[33mcommit 8e4db2c8780cd0ef3f632dad6ae816c516dd1da8[m
+Author: Shadrack Otieno <shadrackmeshack7@gmail.com>
+Date:   Thu Oct 3 23:21:35 2024 -0700
+
+    learig brach
+
+[33mcommit 5b5f12085f3408544dd2e2b7963c99ea990f07be[m
+Author: Shadrack Otieno <shadrackmeshack7@gmail.com>
+Date:   Thu Oct 3 12:24:36 2024 -0700
+
+    first commit
