@@ -17,3 +17,4 @@ if (runnersAge > 18 && registeredEarly) {
 } else if (runnersAge === 18) {
   console.log(`Please see the registration desk for further instructions, race number ${raceNumber}.`);
 }
+   //see update
