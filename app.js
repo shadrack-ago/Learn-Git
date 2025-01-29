@@ -27,3 +27,24 @@ let location = "Kenya";
 let message = `My name is ${name}, I am ${age} years old, and I live in ${location}.`;
 
 console.log(message);
+
+//This is just additioon of trying to learn functions
+const Student = (firstName, secondName,ID, session)=>{
+    return{
+        firstName: firstName,
+        secondName: secondName,
+        ID:ID,
+        session:session,
+        status(){
+            if(this.session===true){
+                console.log(` ${secondName} is in sesssion`)
+            } else{
+                console.log('the student is not in session')
+            }
+        }
+
+    }
+}
+const mwangi= Student('Jairus','mwangi',23,true);
+mwangi.status();
+//hellooo
